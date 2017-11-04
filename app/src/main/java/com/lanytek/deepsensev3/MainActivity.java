@@ -448,4 +448,5 @@ public class MainActivity extends AppCompatActivity {
     public native void InitGPU(String model_dir_path, String packageName);
     public native float [] GetInferrence(float [] input);
 
+    //add by pl
 }
